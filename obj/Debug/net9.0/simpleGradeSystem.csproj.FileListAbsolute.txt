@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\bin\Debug\net9.0\simpleGradeSystem.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\bin\Debug\net9.0\simpleGradeSystem.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\bin\Debug\net9.0\simpleGradeSystem.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\bin\Debug\net9.0\simpleGradeSystem.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\bin\Debug\net9.0\simpleGradeSystem.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\simpleGradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\simpleGradeSystem.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\simpleGradeSystem.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\simpleGradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\simpleGradeSystem.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\refint\simpleGradeSystem.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\simpleGradeSystem.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\simpleGradeSystem.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\1-vsCode prj c#\Conditions\grading system\simpleGradeSystem\obj\Debug\net9.0\ref\simpleGradeSystem.dll
