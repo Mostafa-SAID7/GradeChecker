@@ -49,6 +49,5 @@ Contributions are welcome!
 . This project is licensed under the MIT License.
 . You are free to use, modify, and distribute it.
 
-🙋‍♂️ Author
-Mostafa Samir Said
+## 🙋‍♂️ Author
 Created with 💻 and ☕ by Mostafa Samir Said.
